@@ -5,5 +5,6 @@ module.exports = {
     '<rootDir>/libs/products/util-formatters',
     '<rootDir>/libs/products/feature-game-detail',
     '<rootDir>/apps/api',
+    '<rootDir>/apps/allianz',
   ],
 };

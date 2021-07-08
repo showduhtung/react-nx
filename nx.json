@@ -27,6 +27,13 @@
     ]
   },
   "projects": {
+    "allianz": {
+      "tags": []
+    },
+    "allianz-e2e": {
+      "tags": [],
+      "implicitDependencies": ["allianz"]
+    },
     "api": {
       "tags": []
     },

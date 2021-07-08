@@ -23,3 +23,5 @@ export function Header(props) {
   );
 }
 export default Header;
+
+// nx g @nrwl/react:component header --project=store-ui-shared  --js
